@@ -4,8 +4,8 @@
   "description": "minecraft server status bot",
   "main": "mcbot.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+    "start": "node server.js"
+},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/lerokko/mcstatusbot.git"
@@ -20,7 +20,4 @@
     "discord.js": "^11.4.2",
     "request": "^2.88.0"
   }
-}
-"scripts": {
-    "start": "node server.js"
 }
