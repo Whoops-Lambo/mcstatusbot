@@ -5,10 +5,10 @@ var statustring = "No signal";
 
 var request = require('request');
 var mcCommand = '/minecraft'; // Command for triggering
-var mcIP = process.env.ip; // Your MC server IP
-var mcPort = process.env.port; // Your MC server port
+var mcIP = WolfCities.aternos.me; // Your MC server IP
+// var mcPort = process.env.port; // Your MC server port
 
-var url = 'http://mcapi.us/server/status?ip=' + mcIP + '&port=' + mcPort;
+var url = 'http://mcapi.us/server/status?ip=' + mcIP;
 
 
 function update() {
