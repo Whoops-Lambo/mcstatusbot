@@ -4,7 +4,7 @@
   "description": "minecraft server status bot",
   "main": "mcbot.js",
   "scripts": {
-    "start": "node server.js"
+    "start": "node mcbot.js"
 },
   "repository": {
     "type": "git",
