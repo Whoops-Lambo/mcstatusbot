@@ -7,7 +7,7 @@ var statustring = "No signal";
 var request = require('request');
 var mcCommand = '/minecraft'; // Command for triggering
 var mcIP = settings.ip; // Your MC server IP
-var mcPort = settings.port; // Your MC server port
+// var mcPort = settings.port; // Your MC server port
 
 var url = 'http://mcapi.us/server/status?ip=' + mcIP + '&port=' + mcPort;
 
