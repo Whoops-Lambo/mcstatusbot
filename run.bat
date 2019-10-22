@@ -1,2 +1,2 @@
 node mcbot.js
-YOUR FOLDER ADRESS HERE
+C:\Users\austi\Desktop\mcstatusbot-master\mcstatusbot-master
