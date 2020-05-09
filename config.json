@@ -1,7 +1,7 @@
 {
-	"token":"YOUR_BOT_TOKEN_HERE",
-    "commandPrefix":"/",
-    "ip":"YOUR_SERVER_IP_HERE",
+	"token":"NjM2Mjg0MDc3MTU0MTA3NDAz.Xra6ew.QU09HY7nTd-WExLVrACCQPHVVoU",
+    "commandPrefix":"!",
+    "ip":"mc213765.freemc.cf",
     "port":"25565",
     "pingInterval":"30",
     "embedColor":"7289DA"
